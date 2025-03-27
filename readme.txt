@@ -1,17 +1,21 @@
 1. Lejupielāde un instalācija
-* Lejupielādējiet projekta failus.
-* Nodrošiniet, ka datorā ir instalēta .NET Framework un Visual Studio.
-* Instalējiet SQLite un DB Browser for SQLite, lai apskatītu un pārvaldītu datu bāzi.
-* Palaidiet programmu, atverot .exe failu vai izpildot projektu Visual Studio vidē.
+* Lejupielādējiet spēles arhīvu (quizGame.zip).
+* Izpakojiet failus jebkurā mapē savā datorā.
+* Palaidiet quizGame.exe no izpakotās mapes.
 
 2. Reģistrācija un pieteikšanās
-* Pirmajā palaišanas reizē programma parādīs autorizācijas logu.
-Lai reģistrētos:
-* Ierakstiet lietotājvārdu un paroli.
-* Noklikšķiniet uz "Reģistrēties". Lietotājs tiks saglabāts datu bāzē.
-Lai pieteiktos:
-* Ierakstiet savus reģistrācijas datus un spiediet "Pieslēgties".
-* Ja informācija ir pareiza, programma ielādēs galveno logu ar viktorīnu.
+Reģistrācija:
+* Noklikšķiniet uz Reģistrēties.
+* Ievadiet lietotājvārdu un paroli.
+* Nospiediet Apstiprināt.
+Pieteikšanās:
+* Ievadiet lietotājvārdu un paroli.
+* Noklikšķiniet uz Pieteikties.
+Ja parole ir pareiza:
+* Ja esat admin, atvērsies administratora panelis.
+* Ja esat lietotājs, varēsiet sākt spēli.
+Ja parole ir nepareiza:
+* Parādīsies kļūdas ziņojums.
 
 3. Viktorīnas lietošana
 * Pēc pieteikšanās sāksies viktorīna. Tiek ielādēti 10 nejauši jautājumi no datu bāzes.
@@ -21,21 +25,23 @@ Lai pieteiktos:
 * Pēc 10 jautājumiem tiks parādīts gala rezultāts.
 
 4. Pogu funkcijas
-"Reģistrēties" – izveido jaunu lietotāju datu bāzē.
-"Pieslēgties" – pieslēdzas spēlei ar ievadīto lietotājvārdu un paroli.
-"Tālāk" – pāriet pie nākamā jautājuma.
-"Iziet" – aizver programmu.
+* Login – ieiet sistēmā.
+* Register – izveidot jaunu lietotāju.
+* Rezultātu tabula – apskatīt labākos spēlētājus.
+* Nākamais jautājums – pāriet uz nākamo jautājumu.
+* Atpakaļ – iziet no pašreizējās lapas.
+* Saglabāt jautājumu (Admin panelī) – pievienot jaunu jautājumu datu bāzei.
+* Dzēst jautājumu (Admin panelī) – izdzēst atlasīto jautājumu no datu bāzes.
 
-5. Datu bāzes apskate un rediģēšana (DB Browser for SQLite)
-* Atveriet DB Browser for SQLite.
-* Nospiediet "Open Database" un izvēlieties Questions.db failu.
-* Dodieties uz cilni "Browse Data", lai apskatītu esošos jautājumus un atbildes.
-Jautājumu un atbilžu labošana:
-* Izvēlieties ierakstu un rediģējiet vērtības.
-* Nospiediet "Write Changes", lai saglabātu izmaiņas.
-* Ja nepieciešams, jauni jautājumi tiek pievienoti cilnē "Execute SQL", izmantojot SQL komandas.
-
-6. Problēmu novēršana
-* Ja spēle neielādē jautājumus, pārbaudiet, vai datu bāze Questions.db atrodas pareizajā mapē.
-* Ja programma nedarbojas, pārbaudiet Visual Studio Output logu un kļūdu ziņojumus.
-* Ja aizmirsta parole, manuāli labojiet datu bāzi DB Browser, lai atiestatītu lietotāja informāciju.
+5. Jautājumu apskate un rediģēšana (Administratora funkcija)
+Pievienot jaunu jautājumu:
+* Ievadiet jautājumu un atbilžu variantus.
+* Izvēlieties pareizo atbildi.
+* Nospiediet Saglabāt.
+Rediģēt esošu jautājumu:
+* Izvēlieties jautājumu no saraksta.
+* Mainiet tekstu vai atbildes.
+* Saglabājiet izmaiņas.
+Dzēst jautājumu:
+* Izvēlieties jautājumu un noklikšķiniet uz Dzēst.
+* Jautājums tiks neatgriezeniski izdzēsts no datu bāzes.

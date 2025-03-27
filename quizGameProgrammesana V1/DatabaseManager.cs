@@ -11,65 +11,32 @@ namespace quizGameProgrammesana_V1
 
         public DatabaseManager(string databasePath)
         {
-            string folderPath = Path.GetDirectoryName(databasePath);
-            if (!Directory.Exists(folderPath))
-            {
-                Directory.CreateDirectory(folderPath);
-            }
-
-            if (!File.Exists(databasePath))
-            {
-                SQLiteConnection.CreateFile(databasePath);
-            }
-
-            Connection = new SQLiteConnection($"Data Source={databasePath};Version=3;");
+            SQLiteConnection sQLiteConnection = new SQLiteConnection("Data Source=quiz.db;Version=3;");
+            Connection = sQLiteConnection;
             Connection.Open();
-            InitializeDatabase();
         }
-
-        private void InitializeDatabase()
-        {
-            string createPlayersTable = @"CREATE TABLE IF NOT EXISTS Players (
-                Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                Name TEXT UNIQUE NOT NULL,
-                Password TEXT NOT NULL,
-                Score INTEGER DEFAULT 0
-            );";
-
-            string createQuestionsTable = @"CREATE TABLE IF NOT EXISTS Questions (
-                Id INTEGER PRIMARY KEY AUTOINCREMENT,
-                Question TEXT NOT NULL,
-                Option1 TEXT NOT NULL,
-                Option2 TEXT NOT NULL,
-                Option3 TEXT NOT NULL,
-                Option4 TEXT NOT NULL,
-                CorrectOption INTEGER NOT NULL
-            );";
-
-            SQLiteCommand cmd1 = new SQLiteCommand(createPlayersTable, Connection);
-            SQLiteCommand cmd2 = new SQLiteCommand(createQuestionsTable, Connection);
-            cmd1.ExecuteNonQuery();
-            cmd2.ExecuteNonQuery();
-        }
-
         public bool RegisterPlayer(string username, string password)
         {
             string checkUserQuery = "SELECT COUNT(*) FROM Players WHERE Name = @name";
-            SQLiteCommand checkUserCmd = new SQLiteCommand(checkUserQuery, Connection);
-            checkUserCmd.Parameters.AddWithValue("@name", username);
-            int count = Convert.ToInt32(checkUserCmd.ExecuteScalar());
-
-            if (count > 0)
+            using (SQLiteCommand checkUserCmd = new SQLiteCommand(checkUserQuery, Connection))
             {
-                MessageBox.Show("Lietotājvārds jau aizņemts!", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return false;
+                checkUserCmd.Parameters.AddWithValue("@name", username);
+                int count = Convert.ToInt32(checkUserCmd.ExecuteScalar());
+
+                if (count > 0)
+                {
+                    MessageBox.Show("Lietotājvārds jau aizņemts!", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return false;
+                }
             }
 
-            string insertUserQuery = "INSERT INTO Players (Name, Password) VALUES (@name, @password)";
-            SQLiteCommand insertUserCmd = new SQLiteCommand(insertUserQuery, Connection);
-            insertUserCmd.Parameters.AddWithValue("@name", username);
-            insertUserCmd.Parameters.AddWithValue("@password", password);
-            insertUserCmd.ExecuteNonQuery();
+            string insertUserQuery = "INSERT INTO Players (Name, Password, Score, Role) VALUES (@name, @password, 0, 'user')";
+            using (SQLiteCommand insertUserCmd = new SQLiteCommand(insertUserQuery, Connection))
+            {
+                insertUserCmd.Parameters.AddWithValue("@name", username);
+                insertUserCmd.Parameters.AddWithValue("@password", password);
+                insertUserCmd.ExecuteNonQuery();
+            }
 
             return true;
         }
@@ -90,6 +57,17 @@ namespace quizGameProgrammesana_V1
 
             reader.Close();
             return false;
+        }
+
+        public bool IsAdmin(string username)
+        {
+            string query = "SELECT Role FROM Players WHERE Name = @name";
+            using (SQLiteCommand cmd = new SQLiteCommand(query, Connection))
+            {
+                cmd.Parameters.AddWithValue("@name", username);
+                object result = cmd.ExecuteScalar();
+                return result != null && result.ToString().ToLower() == "admin";
+            }
         }
     }
 }

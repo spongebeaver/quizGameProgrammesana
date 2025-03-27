@@ -16,7 +16,7 @@ namespace quizGameProgrammesana_V1
             LoginForm loginForm = new LoginForm(dbManager);
             if (loginForm.ShowDialog() == DialogResult.OK)
             {
-                Application.Run(new Form1(dbManager, loginForm.Username));
+                Application.Run(new TestForm(dbManager, loginForm.Username));
             }
         }
     }
