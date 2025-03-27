@@ -17,8 +17,8 @@ Ja parole ir pareiza:
 Ja parole ir nepareiza:
 * Parādīsies kļūdas ziņojums.
 
-3. Viktorīnas lietošana
-* Pēc pieteikšanās sāksies viktorīna. Tiek ielādēti 10 nejauši jautājumi no datu bāzes.
+3. Testu lietošana
+* Pēc pieteikšanās sāksies tests. Tiek ielādēti 10 nejauši jautājumi no datu bāzes.
 * Atbildiet, izvēloties pareizo atbildi no četriem variantiem.
 * Pēc katras atbildes nospiežiet "Tālāk".
 * Programma parādīs, vai atbilde bija pareiza vai nepareiza.
