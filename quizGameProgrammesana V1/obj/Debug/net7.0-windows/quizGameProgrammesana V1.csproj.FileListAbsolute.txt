@@ -1,0 +1,172 @@
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.exe
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.deps.json
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.runtimeconfig.json
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.AssemblyReference.cache
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.Form1.resources
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.GenerateResource.cache
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfoInputs.cache
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfo.cs
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CoreCompileInputs.cache
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CopyComplete
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\refint\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.genruntimeconfig.cache
+C:\Users\skolnieks\source\repos\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\ref\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.exe
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.deps.json
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.runtimeconfig.json
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.AssemblyReference.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.Form1.resources
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.GenerateResource.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfoInputs.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfo.cs
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGame.80537E0B.Up2Date
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\refint\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.genruntimeconfig.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V1-20250130T130837Z-001\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\ref\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.exe
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.deps.json
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.runtimeconfig.json
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.AssemblyReference.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.Form1.resources
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.GenerateResource.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfoInputs.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfo.cs
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGame.80537E0B.Up2Date
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\refint\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.genruntimeconfig.cache
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\ref\quizGameProgrammesana V1.dll
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.LoginForm.resources
+C:\Users\dmitr\Downloads\quizGameProgrammesana V3\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.RegisterForm.resources
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.exe
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.deps.json
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.runtimeconfig.json
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.AssemblyReference.cache
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.LoginForm.resources
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.RegisterForm.resources
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.GenerateResource.cache
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfoInputs.cache
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfo.cs
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CoreCompileInputs.cache
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGame.80537E0B.Up2Date
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\refint\quizGameProgrammesana V1.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.genruntimeconfig.cache
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\ref\quizGameProgrammesana V1.dll
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.sourcelink.json
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.TestForm.resources
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.LeaderboardForm.resources
+G:\Piekluves\quizGameProgrammesana V1\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.AdminForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.exe
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.deps.json
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.runtimeconfig.json
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.SqlServer.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\EntityFramework.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.AssemblyReference.cache
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.AdminForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.Form1.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.LeaderboardForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.LoginForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.RegisterForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana_V1.TestForm.resources
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.GenerateResource.cache
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfoInputs.cache
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.AssemblyInfo.cs
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CoreCompileInputs.cache
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.csproj.CopyComplete
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\refint\quizGameProgrammesana V1.dll
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.pdb
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\quizGameProgrammesana V1.genruntimeconfig.cache
+C:\Users\skolnieks\Downloads\quizGameProgrammesana-master\quizGameProgrammesana-master\quizGameProgrammesana V1\obj\Debug\net7.0-windows\ref\quizGameProgrammesana V1.dll
